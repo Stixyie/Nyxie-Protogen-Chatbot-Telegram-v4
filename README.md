@@ -1,17 +1,5 @@
 # 🤖 Nyxie: Protogen Telegram Chatbot 🌟
 
-## 📖 İçindekiler
-- [Giriş](#giriş)
-- [Özellikler](#özellikler)
-- [Gereksinimler](#gereksinimler)
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
-- [Konfigürasyon](#konfigürasyon)
-- [API Entegrasyonları](#api-entegrasyonları)
-- [Güvenlik](#güvenlik)
-- [Destek](#destek)
-- [Lisans](#lisans)
-
 ## 🌈 Giriş
 
 **Nyxie**, Stixyie tarafından geliştirilen gelişmiş bir Protogen AI Telegram chatbot'udur. Yapay zeka teknolojisini kullanarak kullanıcılarla etkileşime giren, zamansal ve bağlamsal olarak duyarlı bir asistantır türkçeye odaklı yapılmıştır ama diğer dillerde belli bir seviyede destek sağlar ama asıl amaçı türkçe konusmayı desteklemektir.
